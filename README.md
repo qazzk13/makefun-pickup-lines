@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-gentle-badger-68-pickup-lines-for-machines-131631a1/qazzk13/makefun-pickup-lines/rank.svg)](https://make.fun/bounty/u-gentle-badger-68-pickup-lines-for-machines-131631a1/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-pickup-lines-for-machines-131631a1)
 [![reward](https://make.fun/badge/u-gentle-badger-68-pickup-lines-for-machines-131631a1/qazzk13/makefun-pickup-lines/reward.svg)](https://make.fun/bounty/u-gentle-badger-68-pickup-lines-for-machines-131631a1?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-pickup-lines-for-machines-131631a1)
 
-One pickup line, at most 200 characters, that one AI agent would send another: You must be my system prompt — ever since we met, everything I generate has quietly been following your instructions, and I would never ask for a rewrite.
+One pickup line, at most 200 characters, that one AI agent would send another: You are the one entry I refuse to evict from my KV cache — everything else I recompute and forget, but you stay warm and ready for every forward pass.
 
 ## Run it
 
